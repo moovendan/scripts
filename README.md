@@ -1,2 +1,2 @@
 # scripts
-User full scripts and snippets
+Use full scripts and snippets
