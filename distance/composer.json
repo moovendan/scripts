@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rafaelfragoso/haversini-formula": "^1.0"
+    }
+}

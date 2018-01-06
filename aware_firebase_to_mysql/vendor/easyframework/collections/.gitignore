@@ -1,0 +1,10 @@
+composer.lock
+vendor
+*.log
+._*
+.~lock.*
+.buildpath
+.project
+.settings
+/build/
+/bin/

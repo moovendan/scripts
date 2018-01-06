@@ -1,10 +1,10 @@
 #!/bin/bash
 ### change the values below where needed.....
-DBNAMES="db17654_lakesmedical jssmc90 mtauname_atm skylark socialigniter the6.in toonhood zoo.me zoo.me-aksha "
-HOST="--host=localhost"
-USER="--user=root"
-PASSWORD="--password="
-BACKUP_DIR="/g/MyDBBackup"
+DBNAMES="zoojoo.be"
+HOST="--host=aa1bsfjg63jpayb.c287deoikxyl.ap-southeast-1.rds.amazonaws.com"
+USER="--user=zojetestdb"
+PASSWORD="--password=nTE4&k.g8ERT"
+BACKUP_DIR="/Users/moove/Sites/scripts/MyDBBackup"
 
 #### you can change these values but they are optional....
 OPTIONS="--default-character-set=latin1 --complete-insert --no-create-info --compact -q"

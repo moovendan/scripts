@@ -25,6 +25,9 @@ $patterns[3] = '/=3D/';
 $patterns[4] = '/=\r\n/';
 $patterns[5] = '/=E2=82=B9/';
 $patterns[6] = '/=C2=A9/';
+$patterns[7] = '/=20/';
+$patterns[8] = '/=E2=80=99/';
+
 
 
 $replacements = array();
@@ -35,6 +38,8 @@ $replacements[3] = '=';
 $replacements[4] = '';
 $replacements[5] = '&#8377;';
 $replacements[6] = '&copy;';
+$replacements[7] = '';
+$replacements[8] = '';
 
 $cleaned_up= preg_replace($patterns, $replacements, $string);
 

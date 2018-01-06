@@ -1,0 +1,57 @@
+[
+    {
+        "name": "kassner/log-parser",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kassner/log-parser.git",
+            "reference": "7302fc1920daf1ec14aedfe03668fad5a1b6007c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/kassner/log-parser/zipball/7302fc1920daf1ec14aedfe03668fad5a1b6007c",
+            "reference": "7302fc1920daf1ec14aedfe03668fad5a1b6007c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.4"
+        },
+        "require-dev": {
+            "phpmd/phpmd": "~2.1",
+            "phpunit/phpunit": "~4.4",
+            "sebastian/phpcpd": "~2.0",
+            "squizlabs/php_codesniffer": "~2.2"
+        },
+        "time": "2015-11-26 12:24:31",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Kassner": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache 2.0"
+        ],
+        "authors": [
+            {
+                "name": "Rafael Kassner",
+                "email": "kassner@gmail.com",
+                "homepage": "http://www.kassner.com.br/",
+                "role": "Developer"
+            }
+        ],
+        "description": "PHP Log Parser Library",
+        "homepage": "http://github.com/kassner/log-parser",
+        "keywords": [
+            "apache",
+            "format",
+            "log",
+            "log-format",
+            "nginx",
+            "parser"
+        ]
+    }
+]

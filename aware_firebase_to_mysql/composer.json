@@ -1,0 +1,6 @@
+{
+    "require": {
+        "webmozart/json": "^1.2",
+        "easyframework/collections": "^6.0"
+    }
+}

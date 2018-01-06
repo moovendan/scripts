@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "^1.21",
+        "tplaner/when": "^2.0"
+    }
+}

@@ -1,0 +1,220 @@
+FORMAT: 1A
+HOST: http://rge.zo2jo2bexx11-stage.in
+
+# RGE WellBeing Meditation
+
+Get the desctiption and the course detail
+
+## Course [/courses]
+
+
+### Course Detail [GET]
++ Request
+
+    + Headers
+
+            Api-Token: nEncH7JseJghMkbnkdPhSt85
+
+
++ Response 200 (application/json)
+
+        [
+            {
+                "name": "relax",
+                "duration": "21",
+                "duration_metric":"days",
+                "activities": "60",
+                "description": "Curated journey to help you reduce stress and understand how to reframe negetive thoughts"
+
+            }
+        ]
+## Assessment [/assessments]
+
+### Get the assessment question [GET]
+
+It will list the questions and the options for the answers.
+
++ Request
+
+    + Headers
+
+            Api-Token: nEncH7JseJghMkbnkdPhSt85
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "type": "question",
+                "published_at": "2015-08-05T08:40:51.620Z",
+                "questions": [
+                    {
+                        "id": "1",
+                        "title": "How active are you?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "title": "Very little/None"
+                            },
+                            {
+                                "id": 2,
+                                "title": "Moderate"
+                            },
+                            {
+                                "id": 3,
+                                "title": "Very Active"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "title": "How much sleep do you usually get everyday?",
+                        "options": [
+                            {
+                                "id": 4,
+                                "title": "Less than 6 hours"
+                            },
+                            {
+                                "id": 5,
+                                "title": "6-8 hours"
+                            },
+                            {
+                                "id": 6,
+                                "title": "More than 8 hours"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3",
+                        "title": "How frequently do you plan your work?",
+                        "options": [
+                            {
+                                "id": 7,
+                                "title": "Daily"
+                            },
+                            {
+                                "id": 8,
+                                "title": "Weekly"
+                            },
+                            {
+                                "id": 9,
+                                "title": "Never"
+                            }
+                        ]
+                    }
+                ]
+            }
+
+### Submit the asessment[POST]
+
+It will list the questions and the options for the answers.
+
++ Request
+
+    + Headers
+
+            Api-Token: nEncH7JseJghMkbnkdPhSt85
+
++ Request  (application/json)
+
+        {
+            "type":"questions",
+            "questions":[
+                {
+                  "question": 1,
+                  "option": 1
+                },
+                {
+                  "question": 2,
+                  "option": 5
+                },
+                {
+                  "question": 3,
+                  "option": 7
+                }
+            ],
+            user_profile:
+            {
+                "refrence_id":23432,
+                "name":"Moovendan",
+                "age":31,
+                "weight":100,
+                "height":172,
+                "location":"Bangalore",
+                "gender":"male"
+
+            }
+        }
+
+
+
++ Response 200 (application/json)
+
+    + Body
+
+            {
+               "journy_type":"1"
+            }
+
+## Journey [/journey]
+
+
+### Get the journey for that particular day [POST]
+
+Get the nth days activity list
+
+
++ Request
+
+    + Headers
+
+            Api-Token: nEncH7JseJghMkbnkdPhSt85
+
+
+    + Attributes
+
+            + journey_type:1
+
+            + day : 1
+
+
++ Response 200 (application/json)
+
+    + Body
+
+            {
+              "a":{
+                "title": "10 minutes guided session",
+                "content_type": "audio",
+                "media": {
+                  "url": "https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F280186218&show_artwork=true",
+                  "provider": "soundcloud",
+                  "runtime": 5222
+                },
+                "icon": {
+                  "url": "http://lorempixel.com/500/500/nature/?70305"
+                },
+                "task_type": "keystone"
+              },
+              "b":{
+                "title": "Walk for 2500 steps after dinner",
+                "description": "Walk for 2500 steps after dinnerWalk for 2500 steps after dinnerWalk for 2500 steps after dinnerWalk for 2500 steps after dinnerWalk for 2500 steps after dinnerWalk for 2500 steps after dinner",
+                "content_type": "text",
+                "image":{
+                    "url": "http://lorempixel.com/500/500/nature/?70305"
+                },
+
+                "task_type": "todo",
+              },
+              "c":{
+                "title": "What happens when you are under stress?",
+                "content_type": "html",
+                "image":{
+                    "url": "http://lorempixel.com/500/500/nature/?70305"
+                },
+                "content": "\n    <h1>5 reasons why your throat loves you</h1>\n\n    <p>Magni rem quia rerum repellendus non debitis sit. Fugit ut molestiae dignissimos. Aspernatur enim est ut laborum suscipit aut ut non.</p>\n\n    Quasi iure non nostrum natus asperiores excepturi. Id voluptas eos perferendis culpa occaecati. Minus iure impedit nisi ratione cum. Asperiores fugit dolor qui dicta tenetur.<br />\n<br />\nTemporibus aut tempore est voluptatem consectetur animi. Quidem facilis necessitatibus officia dolores dolorum tenetur at. Facilis illum incidunt eos voluptatibus rem rerum deleniti.<br />\n<br />\nAssumenda veniam et eligendi praesentium deleniti omnis. Quis molestiae voluptatem pariatur. Autem exercitationem aut neque consequatur nisi ea excepturi.<br />\n<br />\nIn vitae molestias cum repellat. Fuga voluptatem aspernatur voluptatem beatae voluptas illum. Atque neque quam omnis eos dignissimos ut. Occaecati earum et non qui qui ut.<br />\n<br />\nIllo eveniet voluptatum velit totam quisquam. Perspiciatis veniam sit molestias. Aliquid aut voluptatem et ut.<br />\n<br />\nDoloribus et non blanditiis impedit et officiis voluptas. Deleniti eum rerum doloribus rerum voluptatem. Quis incidunt nam in fugiat quaerat iusto error soluta.<br />\n<br />\nIn doloremque unde reiciendis corporis quos aut eum. Aliquid laudantium omnis et omnis. Atque aut suscipit quos et.<br />\n<br />\nConsequatur architecto voluptatem omnis cum fuga architecto. Accusamus omnis aut aspernatur qui consequuntur totam. Eum ut at optio dolorum porro est error. Deleniti rerum quibusdam aut repellendus quae itaque. Qui voluptates ut rerum aut tempore eum commodi.<br />\n<br />\nNemo voluptas quibusdam veniam animi. Velit autem quis consequatur aperiam labore quo est. Mollitia quae enim et asperiores quos sequi.<br />\n<br />\nQuo quibusdam ea fugiat rerum quo voluptatem exercitationem. Est adipisci ea id voluptas qui quia officia. Itaque maxime id dolores ad.\n\n    ",
+                "task_type": "read"
+              }
+            }

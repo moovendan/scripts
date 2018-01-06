@@ -1,0 +1,462 @@
+[2016-11-16 13:54:04] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 13:55:48] production.ERROR: 404 Page Not Found --> game_board/guided_session ---- User Id: 42633
+[2016-11-16 13:58:18] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 14:06:49] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 14:07:24] production.ERROR: 404 Page Not Found -->
+[2016-11-16 14:09:05] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 14:19:09] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 14:23:56] production.ERROR: 404 Page Not Found --> echo.php
+[2016-11-16 14:33:50] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-16 14:36:42] production.ERROR: 404 Page Not Found --> browserconfig.xml
+[2016-11-16 14:59:07] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 15:01:50] production.ERROR: Badge  popup called without badge ---- User Id: 58870
+[2016-11-16 15:08:34] production.ERROR: 404 Page Not Found -->
+[2016-11-16 16:13:04] production.ERROR: 404 Page Not Found -->
+[2016-11-16 16:57:02] production.ERROR: Severity: Notice  --> Undefined variable: forgot_password_hash /var/app/current/application/views/emails/forgot_password.php 653
+[2016-11-16 17:26:39] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-16 17:27:30] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-16 17:58:34] production.ERROR: 404 Page Not Found -->
+[2016-11-16 18:07:27] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 18:08:22] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 18:08:50] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 18:09:01] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 18:10:38] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 18:10:52] production.ERROR: 404 Page Not Found --> game_board/guided_session ---- User Id: 42633
+[2016-11-16 18:55:10] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/cron.php 2508
+[2016-11-16 19:14:20] production.ERROR: 404 Page Not Found --> ...
+[2016-11-16 21:15:38] production.ERROR: 404 Page Not Found --> UlisseREST
+[2016-11-16 21:54:07] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-16 21:57:39] production.ERROR: 404 Page Not Found --> icons
+[2016-11-16 22:42:06] production.ERROR: 404 Page Not Found --> icons
+[2016-11-16 23:05:59] production.ERROR: 404 Page Not Found -->
+[2016-11-16 23:36:29] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-17 01:09:29] production.ERROR: 404 Page Not Found -->
+[2016-11-17 01:10:53] production.ERROR: 404 Page Not Found -->
+[2016-11-17 01:17:19] production.ERROR: 404 Page Not Found -->
+[2016-11-17 02:05:08] production.ERROR: 404 Page Not Found --> UlisseREST
+[2016-11-17 02:06:14] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:06:14] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:07:07] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:07:08] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:08] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:28] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:29] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:42] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:09:58] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:10:32] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:39] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:40] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:11:59] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 02:12:30] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 52114
+[2016-11-17 03:32:21] production.ERROR: Badge  popup called without badge ---- User Id: 59946
+[2016-11-17 04:09:53] production.ERROR: 404 Page Not Found -->
+[2016-11-17 04:09:54] production.ERROR: 404 Page Not Found --> HNAP1
+[2016-11-17 04:53:28] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60938
+[2016-11-17 04:54:07] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60939
+[2016-11-17 04:54:38] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60940
+[2016-11-17 04:55:04] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60941
+[2016-11-17 04:55:50] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60942
+[2016-11-17 04:56:43] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60943
+[2016-11-17 04:57:15] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60944
+[2016-11-17 04:57:39] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60945
+[2016-11-17 04:58:04] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/controllers/auth.php 607 ---- User Id: 60946
+[2016-11-17 05:08:40] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 05:29:15] production.ERROR: 404 Page Not Found -->
+[2016-11-17 05:50:20] production.ERROR: 404 Page Not Found -->
+[2016-11-17 05:54:07] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
+[2016-11-17 05:59:51] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-17 06:03:21] production.ERROR: 404 Page Not Found -->
+[2016-11-17 07:17:24] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 07:29:09] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:09] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:12] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:13] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:17] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:19] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:22] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:25] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:29] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:32] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:33] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:36] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:37] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:46] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:47] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:29:56] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:05] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:14] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:30:59] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:32] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:34] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:35] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:41] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:48] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:31:49] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:38:44] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:39:41] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:39:42] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 40214
+[2016-11-17 07:56:08] production.ERROR: 404 Page Not Found -->
+[2016-11-17 08:45:38] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:47:53] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:48:08] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:48:08] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:56:36] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:56:36] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 08:56:41] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 09:00:14] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 09:00:14] production.ERROR: Severity: Warning  --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /var/app/current/application/controllers/auth.php 986
+[2016-11-17 09:13:58] production.ERROR: 404 Page Not Found --> testproxy.php
+[2016-11-17 09:21:23] production.ERROR: 404 Page Not Found -->
+[2016-11-17 09:32:42] production.ERROR: 404 Page Not Found --> jmx-console
+[2016-11-17 09:52:53] production.ERROR: 404 Page Not Found --> game_board/guided_session ---- User Id: 57470
+[2016-11-17 09:53:03] production.ERROR: 404 Page Not Found --> game_board/guided_session ---- User Id: 57470
+[2016-11-17 09:53:18] production.ERROR: 404 Page Not Found --> game_board/guided_session ---- User Id: 57470
+[2016-11-17 09:53:19] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 09:53:38] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 09:53:47] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 09:54:56] production.ERROR: 404 Page Not Found -->
+[2016-11-17 09:57:18] production.ERROR: Badge  popup called without badge ---- User Id: 55876
+[2016-11-17 10:02:29] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:02:33] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:02:48] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:01] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:14] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:38] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:41] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:47] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:03:54] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:04:11] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:04:16] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:04:18] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:04:27] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:04:46] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:05:07] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:05:11] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:05:32] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:06:06] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:06:31] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 10:18:53] production.ERROR: Severity: Notice  --> Undefined index: feedback /var/app/current/application/models/auth_model.php 749
+[2016-11-17 10:22:38] production.ERROR: 404 Page Not Found --> var
+[2016-11-17 10:22:38] production.ERROR: 404 Page Not Found --> var
+[2016-11-17 10:22:38] production.ERROR: 404 Page Not Found --> var
+[2016-11-17 10:22:38] production.ERROR: 404 Page Not Found --> var
+[2016-11-17 10:34:58] production.ERROR: 404 Page Not Found --> browserconfig.xml
+[2016-11-17 10:35:38] production.ERROR: 404 Page Not Found --> browserconfig.xml
+[2016-11-17 10:43:10] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:43:10] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Warning  --> Illegal string offset 'name' /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 311 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Warning  --> Illegal string offset 'points' /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 312 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 317 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Warning  --> Illegal string offset 'next_target' /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Uninitialized string offset: 0 /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:43:36] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/views/game_board/habit_dashboard.php 321 ---- User Id: 37932
+[2016-11-17 10:44:10] production.ERROR: 404 Page Not Found -->
+[2016-11-17 10:51:48] production.ERROR: 404 Page Not Found -->
+[2016-11-17 11:01:03] production.ERROR: 404 Page Not Found -->
+[2016-11-17 11:01:03] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:02:08] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:02:38] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:03:00] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:10:36] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:12:46] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:21:02] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:21:09] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:21:32] production.ERROR: 404 Page Not Found --> auth/assets
+[2016-11-17 11:29:57] production.ERROR: Severity: Warning  --> mysqli_connect(): (HY000/2002): No route to host /var/app/current/system/database/drivers/mysqli/mysqli_driver.php 77 ---- User Id: 38757
+[2016-11-17 11:29:58] production.ERROR: Unable to connect to the database ---- User Id: 38757
+[2016-11-17 11:30:04] production.ERROR: Severity: Warning  --> mysqli_connect(): (HY000/2002): No route to host /var/app/current/system/database/drivers/mysqli/mysqli_driver.php 77
+[2016-11-17 11:30:04] production.ERROR: Severity: Warning  --> mysqli_connect(): (HY000/2002): No route to host /var/app/current/system/database/drivers/mysqli/mysqli_driver.php 77
+[2016-11-17 11:30:04] production.ERROR: Unable to connect to the database
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 5
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 15
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 30
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined offset: -1 /var/app/current/application/errors/error_db.php 34
+[2016-11-17 11:30:04] production.ERROR: Unable to connect to the database
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 5
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 15
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 30
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined offset: -1 /var/app/current/application/errors/error_db.php 34
+[2016-11-17 11:30:04] production.ERROR: Severity: Warning  --> mysqli_connect(): (HY000/2002): No route to host /var/app/current/system/database/drivers/mysqli/mysqli_driver.php 77
+[2016-11-17 11:30:04] production.ERROR: Unable to connect to the database
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 5
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 15
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined index: HTTP_HOST /var/app/current/application/errors/error_db.php 30
+[2016-11-17 11:30:04] production.ERROR: Severity: Notice  --> Undefined offset: -1 /var/app/current/application/errors/error_db.php 34
+[2016-11-17 12:16:06] production.ERROR: Badge  popup called without badge ---- User Id: 29322
+[2016-11-17 12:18:07] production.ERROR: Badge  popup called without badge ---- User Id: 29322
+[2016-11-17 12:31:31] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/models/game_board_model.php 590 ---- User Id: 25893
+[2016-11-17 12:31:31] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/models/game_board_model.php 596 ---- User Id: 25893
+[2016-11-17 12:31:31] production.ERROR: Severity: Notice  --> Trying to get property of non-object /var/app/current/application/models/game_board_model.php 603 ---- User Id: 25893
+[2016-11-17 12:58:53] production.ERROR: 404 Page Not Found -->
+[2016-11-17 12:59:43] production.ERROR: 404 Page Not Found -->
+[2016-11-17 13:52:01] production.ERROR: Query error: Deadlock found when trying to get lock; try restarting transaction
